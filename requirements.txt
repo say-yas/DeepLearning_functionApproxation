@@ -1,0 +1,13 @@
+numpy
+matplotlib
+scipy
+
+tensorflow
+torch
+jax
+
+pandas
+optax
+
+tqdm 
+
