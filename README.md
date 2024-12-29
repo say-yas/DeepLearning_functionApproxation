@@ -1,4 +1,4 @@
-# NNA_24_Hammad_Sayyad
+# DeepLearning_functionApproxation
 
 This is a package for approximating functions using various deep neural networks.
 The codes are implemented by <ins>Muhammad Hammad</ins> and <ins>Sharareh Sayyad</ins>.
